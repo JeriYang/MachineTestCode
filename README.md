@@ -1,6 +1,6 @@
-我是 杨济睿, [炎刚ALGORITHM](https://github.com/JeriYang) 
-希望课余时间做些有意义的事情，希望各位取得好成绩。
-机试题目来源(电子书下载)：[王道计算机考研——机试指南]()
+我是 杨济睿, [炎刚ALGORITHM](https://github.com/JeriYang) <br>
+希望课余时间做些有意义的事情，希望各位机试取得好成绩。<br>
+机试题目来源(电子书下载链接)：[王道计算机考研——机试指南](https://github.com/JeriYang/MachineTestCode/raw/master/%E3%80%8A2013%E5%B9%B4%E7%8E%8B%E9%81%93%E8%AE%BA%E5%9D%9B%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%80%83%E7%A0%94%E6%9C%BA%E8%AF%95%E6%8C%87%E5%8D%97%E3%80%8B.pdf)<br>
 ps:该书对应的OJ已经没有了，大家可以上牛客网等网站进行练习
 
 ## 这个 Machine Test Code 的一些内容:
