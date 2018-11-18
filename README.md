@@ -1,10 +1,16 @@
 我是 杨济睿, [炎刚ALGORITHM](https://github.com/JeriYang) <br>
 希望课余时间做些有意义的事情，希望各位机试取得好成绩。<br>
-机试题目来源(电子书下载链接)：[王道计算机考研——机试指南](https://github.com/JeriYang/MachineTestCode/raw/master/%E3%80%8A2013%E5%B9%B4%E7%8E%8B%E9%81%93%E8%AE%BA%E5%9D%9B%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%80%83%E7%A0%94%E6%9C%BA%E8%AF%95%E6%8C%87%E5%8D%97%E3%80%8B.pdf)<br>
+机试题目来源(电子书下载链接)：[王道计算机考研——机试指南](https://github.com/JeriYang/MachineTestCode/raw/master/mc0/%E3%80%8A2013%E5%B9%B4%E7%8E%8B%E9%81%93%E8%AE%BA%E5%9D%9B%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%80%83%E7%A0%94%E6%9C%BA%E8%AF%95%E6%8C%87%E5%8D%97%E3%80%8B.pdf)
+<br>
 ps:该书对应的OJ已经没有了，大家可以上[牛客网](https://www.nowcoder.com/)等网站进行练习
 
 ## 这个 Machine Test Code 的一些内容:
 * [基础篇]
+* [mc0](https://github.com/JeriYang/MachineTestCode/tree/master/mc0/)
+  * [教材pdf](https://github.com/JeriYang/MachineTestCode/raw/master/mc0/%E3%80%8A2013%E5%B9%B4%E7%8E%8B%E9%81%93%E8%AE%BA%E5%9D%9B%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%80%83%E7%A0%94%E6%9C%BA%E8%AF%95%E6%8C%87%E5%8D%97%E3%80%8B.pdf)
+  * [vc++6.0下载链接](https://github.com/JeriYang/MachineTestCode/raw/master/mc0/vc%2B%2B6.0(win10\\).zip)
+  * [vc++6.0 win10 安装教程](https://blog.csdn.net/Calvin_zhou/article/details/78420190)
+  * [vc++6.0 win7 安装教程](https://wenku.baidu.com/view/ac41d0bef121dd36a32d8263.html)
 * [入门题型mc1](https://github.com/JeriYang/MachineTestCode/tree/master/mc1/)
   * [排序]
   * [日期]
