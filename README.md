@@ -15,7 +15,8 @@ ps:该书对应的OJ已经没有了，大家可以上[牛客网](https://www.now
   * [排序](https://github.com/JeriYang/MachineTestCode/blob/master/mc1/1_1sort.cpp)
   * [日期](https://github.com/JeriYang/MachineTestCode/blob/master/mc1/1_2date.cpp)
   * [Hash](https://github.com/JeriYang/MachineTestCode/blob/master/mc1/1_3hash.cpp)
-  * [排版]
+  * [排版](https://github.com/JeriYang/MachineTestCode/blob/master/mc1/1_4trapezoid.cpp)
+    * [排版练习题](https://github.com/JeriYang/MachineTestCode/blob/master/mc1/1_4basket.cpp)
   * [查找]
   * [贪心]
   * [第一章讲解word下载](https://github.com/JeriYang/MachineTestCode/raw/master/mc1/%E7%AC%AC%E4%B8%80%E7%AB%A0%E9%87%8D%E7%82%B9%E5%86%85%E5%AE%B9.docx)
