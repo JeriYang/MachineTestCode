@@ -12,12 +12,13 @@ ps:该书对应的OJ已经没有了，大家可以上[牛客网](https://www.now
   * [vc++6.0 win10 安装教程](https://blog.csdn.net/Calvin_zhou/article/details/78420190)
   * [vc++6.0 win7 安装教程](https://wenku.baidu.com/view/ac41d0bef121dd36a32d8263.html)
 * [入门题型mc1](https://github.com/JeriYang/MachineTestCode/tree/master/mc1/)
-  * [排序]
-  * [日期]
-  * [Hash]
+  * [排序](https://github.com/JeriYang/MachineTestCode/blob/master/mc1/1_1sort.cpp)
+  * [日期](https://github.com/JeriYang/MachineTestCode/blob/master/mc1/1_2date.cpp)
+  * [Hash](https://github.com/JeriYang/MachineTestCode/blob/master/mc1/1_3hash.cpp)
   * [排版]
   * [查找]
   * [贪心]
+  * [第一章讲解word下载](https://github.com/JeriYang/MachineTestCode/raw/master/mc1/%E7%AC%AC%E4%B8%80%E7%AB%A0%E9%87%8D%E7%82%B9%E5%86%85%E5%AE%B9.docx)
 * [数据结构mc2](https://github.com/JeriYang/MachineTestCode/tree/master/mc2)
   * [栈的应用]
   * [哈夫曼树]
