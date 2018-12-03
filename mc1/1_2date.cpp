@@ -13,6 +13,9 @@
 
 输出
 11
+
+@author:JeriYang
+@time:2018
 */
 
 #include<stdio.h>
