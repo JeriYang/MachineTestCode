@@ -18,7 +18,7 @@ ps:该书对应的OJ已经没有了，大家可以上[牛客网](https://www.now
   * [排版](https://github.com/JeriYang/MachineTestCode/blob/master/mc1/1_4trapezoid.cpp)
     * [排版练习题](https://github.com/JeriYang/MachineTestCode/blob/master/mc1/1_4basket.cpp)
   * [查找](https://github.com/JeriYang/MachineTestCode/blob/master/mc1/1_5binary_search.cpp)
-  * [贪心]
+  * [贪心](https://github.com/JeriYang/MachineTestCode/blob/master/mc1/1_6greedy.cpp)
   * [第一章讲解word下载](https://github.com/JeriYang/MachineTestCode/raw/master/mc1/%E7%AC%AC%E4%B8%80%E7%AB%A0%E9%87%8D%E7%82%B9%E5%86%85%E5%AE%B9.docx)
 * [数据结构mc2](https://github.com/JeriYang/MachineTestCode/tree/master/mc2)
   * [栈的应用]
