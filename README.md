@@ -16,13 +16,14 @@ ps:该书对应的OJ已经没有了，大家可以上[牛客网](https://www.now
   * [日期](https://github.com/JeriYang/MachineTestCode/blob/master/mc1/1_2date.cpp)
   * [Hash](https://github.com/JeriYang/MachineTestCode/blob/master/mc1/1_3hash.cpp)
   * [排版](https://github.com/JeriYang/MachineTestCode/blob/master/mc1/1_4trapezoid.cpp)
-    * [排版练习题](https://github.com/JeriYang/MachineTestCode/blob/master/mc1/1_4basket.cpp)
+    * [排版练习题_叠筐](https://github.com/JeriYang/MachineTestCode/blob/master/mc1/1_4basket.cpp)
   * [查找](https://github.com/JeriYang/MachineTestCode/blob/master/mc1/1_5binary_search.cpp)
   * [贪心](https://github.com/JeriYang/MachineTestCode/blob/master/mc1/1_6greedy.cpp)
   * [第一章讲解word下载](https://github.com/JeriYang/MachineTestCode/raw/master/mc1/%E7%AC%AC%E4%B8%80%E7%AB%A0%E9%87%8D%E7%82%B9%E5%86%85%E5%AE%B9.docx)
 * [***数据结构mc2***](https://github.com/JeriYang/MachineTestCode/tree/master/mc2)
   * [栈的应用](https://github.com/JeriYang/MachineTestCode/blob/master/mc2/2_1bracketMatching.cpp)
-  * [哈夫曼树]
+    * [练习题_简单计算器](https://github.com/JeriYang/MachineTestCode/blob/master/mc2/2_1calculator.cpp)
+  * [哈夫曼树](https://github.com/JeriYang/MachineTestCode/blob/master/mc2/2_2huffmanTree.cpp)
   * [二叉树]
   * [二叉排序树]
   * [第二章讲解word下载](https://github.com/JeriYang/MachineTestCode/raw/master/mc2/%E7%AC%AC%E4%BA%8C%E7%AB%A0%E9%87%8D%E7%82%B9%E5%86%85%E5%AE%B9.docx)
