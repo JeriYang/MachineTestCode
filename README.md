@@ -24,8 +24,8 @@ ps:该书对应的OJ已经没有了，大家可以上[牛客网](https://www.now
   * [栈的应用](https://github.com/JeriYang/MachineTestCode/blob/master/mc2/2_1bracketMatching.cpp)
     * [练习题_简单计算器](https://github.com/JeriYang/MachineTestCode/blob/master/mc2/2_1calculator.cpp)
   * [哈夫曼树](https://github.com/JeriYang/MachineTestCode/blob/master/mc2/2_2huffmanTree.cpp)
-  * [二叉树]
-  * [二叉排序树]
+  * [二叉树](https://github.com/JeriYang/MachineTestCode/blob/master/mc2/2_3bTreeTra.cpp)
+  * [二叉排序树](https://github.com/JeriYang/MachineTestCode/blob/master/mc2/2_4bTreeSort.cpp)
   * [第二章讲解word下载](https://github.com/JeriYang/MachineTestCode/raw/master/mc2/%E7%AC%AC%E4%BA%8C%E7%AB%A0%E9%87%8D%E7%82%B9%E5%86%85%E5%AE%B9.docx)
 * [***数学问题mc3***](https://github.com/JeriYang/MachineTestCode/tree/master/mc3)
   * [%运算符]
