@@ -4,6 +4,12 @@
 <br>
 ps:该书对应的OJ已经没有了，大家可以上[牛客网](https://www.nowcoder.com/)等网站进行练习
 
+### 机试介绍
+机试过程中，最常用和要求的语言是C/C++,<br>
+所以是推荐大家准备机试的过程中使用C/C++。<br>
+然后对于ide，在我机试过程中遇到的最老的编译器就是VC++6.0,所以课程中使用到的ide就是VC6.0<br>
+如果各位同学报考的院校有指定的ide，你使用指定的即可，没有任何影响。
+
 ### 这个 Machine Test Code 的一些内容:
 * [**基础篇**]
 * [***先验内容mc0***](https://github.com/JeriYang/MachineTestCode/tree/master/mc0/)
