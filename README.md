@@ -34,8 +34,8 @@ ps:该书对应的OJ已经没有了，大家可以上[牛客网](https://www.now
   * [二叉排序树](https://github.com/JeriYang/MachineTestCode/blob/master/mc2/2_4bTreeSort.cpp)
   * [第二章讲解word下载](https://github.com/JeriYang/MachineTestCode/raw/master/mc2/%E7%AC%AC%E4%BA%8C%E7%AB%A0%E9%87%8D%E7%82%B9%E5%86%85%E5%AE%B9.docx)
 * [***数学问题mc3***](https://github.com/JeriYang/MachineTestCode/tree/master/mc3)
-  * [%运算符]
-  * [数位拆解]
+  * [%运算符](https://github.com/JeriYang/MachineTestCode/blob/master/mc3/3_1.formatNum.cpp)
+  * [数位拆解](https://github.com/JeriYang/MachineTestCode/blob/master/mc3/3_2supMul.cpp)
   * [进制转换]
   * [最大公约数]
   * [最小公倍数]
