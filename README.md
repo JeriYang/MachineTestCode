@@ -39,7 +39,7 @@ ps:该书对应的OJ已经没有了，大家可以上[牛客网](https://www.now
   * [进制转换](https://github.com/JeriYang/MachineTestCode/blob/master/mc3/3_3numSysConv.cpp)
   * [最大公约数](https://github.com/JeriYang/MachineTestCode/blob/master/mc3/3_4gcd.cpp)
   * [最小公倍数](https://github.com/JeriYang/MachineTestCode/blob/master/mc3/3_5lcm.cpp)
-  * [素数筛选]
-  * [分解素因数]
+  * [素数筛选](https://github.com/JeriYang/MachineTestCode/blob/master/mc3/3_6priNumJudge.cpp)
+  * [分解素因数](https://github.com/JeriYang/MachineTestCode/blob/master/mc3/3_7numOfquaFac.cpp)
   * [二分求幂]
   * [高精度整数]
