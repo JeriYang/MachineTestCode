@@ -54,7 +54,7 @@ int main(){
 15%3(count=4)   N=5  j=3
 5%3(j++)        N=5  j=4
 5%4(j++)        N=5  j=5
-5%5(count=5)        N=1  j=5
+5%5(count=5)    N=1  j=5
 N<j跳出
 且A<=1
 输出5

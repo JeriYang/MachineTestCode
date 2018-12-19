@@ -11,7 +11,7 @@ ps:该书对应的OJ已经没有了，大家可以上[牛客网](https://www.now
 如果各位同学报考的院校有指定的ide，你使用指定的即可，没有任何影响。
 
 ### 这个 Machine Test Code 的一些内容:
-* [**基础篇**]
+#### 基础篇
 * [***先验内容mc0***](https://github.com/JeriYang/MachineTestCode/tree/master/mc0/)
   * [教材pdf](https://github.com/JeriYang/MachineTestCode/raw/master/mc0/%E3%80%8A2013%E5%B9%B4%E7%8E%8B%E9%81%93%E8%AE%BA%E5%9D%9B%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%80%83%E7%A0%94%E6%9C%BA%E8%AF%95%E6%8C%87%E5%8D%97%E3%80%8B.pdf)
   * [vc++6.0下载链接](https://github.com/JeriYang/MachineTestCode/raw/master/mc0/vc%2B%2B6.0(win10).zip)
@@ -41,5 +41,25 @@ ps:该书对应的OJ已经没有了，大家可以上[牛客网](https://www.now
   * [最小公倍数](https://github.com/JeriYang/MachineTestCode/blob/master/mc3/3_5lcm.cpp)
   * [素数筛选](https://github.com/JeriYang/MachineTestCode/blob/master/mc3/3_6priNumJudge.cpp)
   * [分解素因数](https://github.com/JeriYang/MachineTestCode/blob/master/mc3/3_7numOfquaFac.cpp)
-  * [二分求幂]
-  * [高精度整数]
+  * [二分求幂](https://github.com/JeriYang/MachineTestCode/blob/master/mc3/3_8dichotomousPower.cpp)
+  * [高精度整数](https://github.com/JeriYang/MachineTestCode/blob/master/mc3/3_9factorialN.cpp)
+  
+<br>
+#### 进阶篇
+* [***图论mc4***](https://github.com/JeriYang/MachineTestCode/tree/master/mc4)
+  * [并查集]
+  * [最小生成树MST]
+  * [最短路径]
+  * [拓扑排序]
+* [***搜索mc5***](https://github.com/JeriYang/MachineTestCode/tree/master/mc5)
+  * [枚举]
+  * [广度优先搜索BFS]
+  * [递归]
+  * [深度优先搜索DFS]
+* [***动态规划mc6***](https://github.com/JeriYang/MachineTestCode/tree/master/mc6)
+  * [递推求解]
+  * [最长递增子序列]
+  * [最长公共子序列]
+  * [状态与状态转移方程]
+  * [动态规划问题分析举例]
+  * [背包]
