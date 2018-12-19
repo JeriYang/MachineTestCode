@@ -43,8 +43,7 @@ ps:该书对应的OJ已经没有了，大家可以上[牛客网](https://www.now
   * [分解素因数](https://github.com/JeriYang/MachineTestCode/blob/master/mc3/3_7numOfquaFac.cpp)
   * [二分求幂](https://github.com/JeriYang/MachineTestCode/blob/master/mc3/3_8dichotomousPower.cpp)
   * [高精度整数](https://github.com/JeriYang/MachineTestCode/blob/master/mc3/3_9factorialN.cpp)
-  
-<br>
+
 #### 进阶篇
 * [***图论mc4***](https://github.com/JeriYang/MachineTestCode/tree/master/mc4)
   * [并查集]
