@@ -45,7 +45,7 @@ ps:该书对应的OJ已经没有了，大家可以上[牛客网](https://www.now
   * [高精度整数](https://github.com/JeriYang/MachineTestCode/blob/master/mc3/3_9factorialN.cpp)
 
 #### 进阶篇
-* [***图论mc4***](https://github.com/JeriYang/MachineTestCode/tree/master/mc4)
+* [***图论mc4***](https://github.com/JeriYang/MachineTestCode/tree/master/mc4)<br>
 这部分实际考核很少，掌握并查集，kruskal算法原理，floyd,dijkstra算法即可<br>
   * [并查集](https://github.com/JeriYang/MachineTestCode/tree/master/mc4/4_1disjointSetUnion.cpp)
   * [最小生成树MST](https://github.com/JeriYang/MachineTestCode/tree/master/mc4/4_2kruskal.cpp)
