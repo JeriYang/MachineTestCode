@@ -46,16 +46,15 @@ ps:该书对应的OJ已经没有了，大家可以上[牛客网](https://www.now
 
 #### 进阶篇
 * [***图论mc4***](https://github.com/JeriYang/MachineTestCode/tree/master/mc4)<br>
-这部分实际考核很少，掌握并查集，kruskal算法原理，floyd,dijkstra算法即可<br>
+这部分机试考核较少，掌握并查集，kruskal，floyd, dijkstra算法原理即可<br>
   * [并查集](https://github.com/JeriYang/MachineTestCode/tree/master/mc4/4_1disjointSetUnion.cpp)
   * [最小生成树MST](https://github.com/JeriYang/MachineTestCode/tree/master/mc4/4_2kruskal.cpp)
   * [最短路径](https://github.com/JeriYang/MachineTestCode/tree/master/mc4/4_3floydOrDijkstra.cpp)
-  * [拓扑排序]
 * [***搜索mc5***](https://github.com/JeriYang/MachineTestCode/tree/master/mc5)
-  * [枚举]
-  * [广度优先搜索BFS]
-  * [递归]
-  * [深度优先搜索DFS]
+  * [枚举](https://github.com/JeriYang/MachineTestCode/tree/master/mc5/5_1enumerate.cpp)
+  * [广度优先搜索BFS](https://github.com/JeriYang/MachineTestCode/tree/master/mc5/5_2bfs.cpp)
+  * [递归](https://github.com/JeriYang/MachineTestCode/tree/master/mc5/5_3recursive.cpp)
+  * [深度优先搜索DFS](https://github.com/JeriYang/MachineTestCode/tree/master/mc4/5_4dfs.cpp)
 * [***动态规划mc6***](https://github.com/JeriYang/MachineTestCode/tree/master/mc6)
   * [递推求解]
   * [最长递增子序列]
