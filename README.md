@@ -55,10 +55,10 @@ ps:该书对应的OJ已经没有了，大家可以上[牛客网](https://www.now
   * [广度优先搜索BFS](https://github.com/JeriYang/MachineTestCode/tree/master/mc5/5_2bfs.cpp)
   * [递归](https://github.com/JeriYang/MachineTestCode/tree/master/mc5/5_3recursive.cpp)
   * [深度优先搜索DFS](https://github.com/JeriYang/MachineTestCode/tree/master/mc5/5_4dfs.cpp)
-* [***动态规划mc6***](https://github.com/JeriYang/MachineTestCode/tree/master/mc6)
-  * [递推求解]
-  * [最长递增子序列]
-  * [最长公共子序列]
-  * [状态与状态转移方程]
-  * [动态规划问题分析举例]
-  * [背包]
+* [***动态规划mc6***](https://github.com/JeriYang/MachineTestCode/tree/master/mc6)<br>
+难点：找状态转移方程dp<br>
+  * [递推求解](https://github.com/JeriYang/MachineTestCode/tree/master/mc6/6_1stair.cpp)
+  * [最长递增子序列](https://github.com/JeriYang/MachineTestCode/tree/master/mc6/6_2Longest_increasing_subsequence.cpp)
+  * [最长公共子序列](https://github.com/JeriYang/MachineTestCode/tree/master/mc6/6_3Longest_common_subsequence.cpp)
+  * [动态规划问题分析举例](https://github.com/JeriYang/MachineTestCode/tree/master/mc6/6_4dp.cpp)
+  * [背包](https://github.com/JeriYang/MachineTestCode/tree/master/mc6/6_5backpack.cpp)
