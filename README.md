@@ -54,7 +54,7 @@ ps:该书对应的OJ已经没有了，大家可以上[牛客网](https://www.now
   * [枚举](https://github.com/JeriYang/MachineTestCode/tree/master/mc5/5_1enumerate.cpp)
   * [广度优先搜索BFS](https://github.com/JeriYang/MachineTestCode/tree/master/mc5/5_2bfs.cpp)
   * [递归](https://github.com/JeriYang/MachineTestCode/tree/master/mc5/5_3recursive.cpp)
-  * [深度优先搜索DFS](https://github.com/JeriYang/MachineTestCode/tree/master/mc4/5_4dfs.cpp)
+  * [深度优先搜索DFS](https://github.com/JeriYang/MachineTestCode/tree/master/mc5/5_4dfs.cpp)
 * [***动态规划mc6***](https://github.com/JeriYang/MachineTestCode/tree/master/mc6)
   * [递推求解]
   * [最长递增子序列]
